@@ -3,7 +3,8 @@
 This project predicts the likelihood of a customer leaving an e-commerce platform (Churn) using Machine Learning. It includes a complete pipeline from data preprocessing to a live interactive UI.
 
 ##  Demo
-You can test the model here: [Paste your Hugging Face or Gradio Live Link here]
+<img width="1911" height="1070" alt="image" src="https://github.com/user-attachments/assets/71d9c621-6d11-4feb-b009-709a6070943f" />
+
 
 ## 🛠️ Tech Stack
 * *Language:* Python 3.x
